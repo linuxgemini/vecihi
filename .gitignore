@@ -65,3 +65,4 @@ out/*
 .basic256rc.js
 deployconf/
 package-lock.json
+twitchChannels.js
