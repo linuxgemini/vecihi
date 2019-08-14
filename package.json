@@ -1,0 +1,32 @@
+{
+  "name": "vecihi",
+  "version": "0.0.1",
+  "description": "Another Discord.js bot varied from voyunPride.",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/linuxgemini/Vecihi.git"
+  },
+  "keywords": [
+    "discord.js",
+    "bot"
+  ],
+  "author": "linuxgemini",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/linuxgemini/Vecihi/issues"
+  },
+  "homepage": "https://github.com/linuxgemini/Vecihi#readme",
+  "dependencies": {
+    "chalk": "^2.3.1",
+    "discord.js": "^11.3.2",
+    "enmap": "^2.0.1",
+    "klaw": "^2.1.1",
+    "moment": "^2.20.1",
+    "moment-duration-format": "^2.2.1",
+    "tmi.js": "^1.4.5"
+  }
+}
